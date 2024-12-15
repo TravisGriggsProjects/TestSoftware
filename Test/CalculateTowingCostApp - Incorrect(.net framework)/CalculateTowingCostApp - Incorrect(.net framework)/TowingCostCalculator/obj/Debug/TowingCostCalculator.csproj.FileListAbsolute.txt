@@ -1,0 +1,12 @@
+C:\Temp\PRG433NUT_Practical Test\CalculateTowingCostApp - Incorrect(.net framework)\TowingCostCalculator\bin\Debug\TowingCostCalculator.dll
+C:\Temp\PRG433NUT_Practical Test\CalculateTowingCostApp - Incorrect(.net framework)\TowingCostCalculator\bin\Debug\TowingCostCalculator.pdb
+C:\Temp\PRG433NUT_Practical Test\CalculateTowingCostApp - Incorrect(.net framework)\TowingCostCalculator\obj\Debug\TowingCostCalculator.csprojAssemblyReference.cache
+C:\Temp\PRG433NUT_Practical Test\CalculateTowingCostApp - Incorrect(.net framework)\TowingCostCalculator\obj\Debug\TowingCostCalculator.csproj.CoreCompileInputs.cache
+C:\Temp\PRG433NUT_Practical Test\CalculateTowingCostApp - Incorrect(.net framework)\TowingCostCalculator\obj\Debug\TowingCostCalculator.dll
+C:\Temp\PRG433NUT_Practical Test\CalculateTowingCostApp - Incorrect(.net framework)\TowingCostCalculator\obj\Debug\TowingCostCalculator.pdb
+C:\Users\tgrig\Downloads\CalculateTowingCostApp - Incorrect(.net framework)\CalculateTowingCostApp - Incorrect(.net framework)\TowingCostCalculator\bin\Debug\TowingCostCalculator.dll
+C:\Users\tgrig\Downloads\CalculateTowingCostApp - Incorrect(.net framework)\CalculateTowingCostApp - Incorrect(.net framework)\TowingCostCalculator\bin\Debug\TowingCostCalculator.pdb
+C:\Users\tgrig\Downloads\CalculateTowingCostApp - Incorrect(.net framework)\CalculateTowingCostApp - Incorrect(.net framework)\TowingCostCalculator\obj\Debug\TowingCostCalculator.csproj.AssemblyReference.cache
+C:\Users\tgrig\Downloads\CalculateTowingCostApp - Incorrect(.net framework)\CalculateTowingCostApp - Incorrect(.net framework)\TowingCostCalculator\obj\Debug\TowingCostCalculator.csproj.CoreCompileInputs.cache
+C:\Users\tgrig\Downloads\CalculateTowingCostApp - Incorrect(.net framework)\CalculateTowingCostApp - Incorrect(.net framework)\TowingCostCalculator\obj\Debug\TowingCostCalculator.dll
+C:\Users\tgrig\Downloads\CalculateTowingCostApp - Incorrect(.net framework)\CalculateTowingCostApp - Incorrect(.net framework)\TowingCostCalculator\obj\Debug\TowingCostCalculator.pdb
